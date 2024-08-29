@@ -273,13 +273,13 @@ Move the 'endcomment' tag above the beginning of the following
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-   The workshop is primarily designed for the following students:
+   The workshop is primarily designed for the following students:</p>
 
 <ul>
 <li>Students registered for Digital Methods (FAM4043S) at UCT. </li>
 <li>Other postgraduate Media students</li>
 <ul>
-
+<p>
 If you are interested in attending this workshop, contact marion.walton@uct.ac.za  for more information
 </p>
 
