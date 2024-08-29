@@ -184,13 +184,13 @@ Modify the block below if there are any special requirements.
 <p id="requirements">
   <strong>Requirements:</strong>
   {% if online == "false" %}
-    Participants must bring a laptop with a
+    RStudio has been made available on lab machines. Participants are also encouraged to bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  We will make some time at the end of the workshop to assist you if you would like to use RStudio on your own laptop. If you want to follow the lesson on your own laptop, you will need to pre-install the specific software packages listed <a href="#setup">below</a>.
 </p>
 
 {% comment %}
